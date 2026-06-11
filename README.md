@@ -1,7 +1,7 @@
 Prem Bhosale
 
 
-Data Analyst → Data Scientist  |  Mumbai, India  |  Open to remote & global roles
+Data Analyst  |  Mumbai, India  |  Open to remote & global roles
 
 
 
@@ -21,7 +21,7 @@ Data Analyst → Data Scientist  |  Mumbai, India  |  Open to remote & globa
 
 Data Analyst with hands-on experience building end-to-end analytics solutions — from raw SQL queries to interactive Power BI and Tableau dashboards. I specialize in turning messy business data into clear, actionable insights across supply chain, HR, and fraud detection domains.
 
-Currently expanding into Python-based data science and machine learning. BSc Computer Science graduate actively targeting Data Analyst and junior Data Scientist roles in India and internationally.
+Currently expanding into Python-based data science. BSc Computer Science graduate actively targeting Data Analyst roles in India and internationally.
 
 ---
 
