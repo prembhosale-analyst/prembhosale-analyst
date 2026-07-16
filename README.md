@@ -41,14 +41,14 @@ Currently expanding into Python-based data science. BSc Computer Science graduat
 
 ---
 
-### Featured projects
+### Featured Projects
 
 | Project | Tools | Description |
 |---|---|---|
-| **Supply Chain & Inventory Analysis** | Power BI · SQL · DAX | Star schema data model, ABC classification, fill rate & DOI metrics, MoM variance |
-| **HR Analytics Dashboard** | Tableau · Excel | 1,470 rows, 39 fields — attrition analysis, performance insights, department breakdowns |
-| **PhonePe Fraud Intelligence** | Tableau | Fraud pattern detection dashboard with transaction-level visual analysis |
-| **Portfolio Site** | Web Dev | Dark editorial analytics portfolio — [live link](https://data-portfolio-site--prembhosale.replit.app/) |
+| **SBI Life Campaign Analytics** | Power BI · SQL · DAX · Power Query | Interactive marketing analytics dashboard analyzing campaign ROI, conversions, customer insights, branch performance, and payment trends. |
+| **Olist E-Commerce Analytics** | Power BI · SQL · Python | End-to-end analytics project on the Brazilian Olist dataset with sales trends, customer behavior, product performance, and payment analysis. |
+| **Retail Performance Dashboard** | Power BI · DAX · Excel | Business intelligence dashboard tracking sales, profit, customer behavior, and product performance using dynamic KPIs and interactive visuals. |
+| **Portfolio Website** | HTML · CSS · JavaScript | Personal portfolio showcasing analytics projects, technical skills, certifications, and live Power BI dashboards. [Live Site](https://data-portfolio-site--prembhosale.replit.app/) |
 
 ---
 
