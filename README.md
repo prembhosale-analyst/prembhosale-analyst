@@ -41,7 +41,7 @@ Currently expanding into Python-based data science. BSc Computer Science graduat
 
 ---
 
-###Portfolio Website
+**Portfolio Website**
 | HTML · CSS · JavaScript | Personal portfolio showcasing analytics projects, technical skills, certifications, GitHub repositories, and live Power BI dashboards. [Live Site](https://data-portfolio-site--prembhosale.replit.app/) |
 
 
